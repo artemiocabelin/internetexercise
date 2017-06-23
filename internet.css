@@ -66,6 +66,7 @@ table {
     margin-left: 50px;
 }
 
+
 .red_highlight{
     color: red;
 }
@@ -103,11 +104,7 @@ table {
     width: 1000px;
 }
 
-#banner_top h1 {
-    font-size: 50px;
-    display: inline-block;
-    font-family: Arial;
-}
+
 
 #globe {
     display: inline-block;
@@ -126,6 +123,9 @@ table {
     display: inline-block;
     vertical-align: top;
     margin-top: 30px;
+    font-size: 50px;
+    display: inline-block;
+    font-family: Arial;
 }
 #highlight {
     color: #0561A0;
@@ -140,17 +140,18 @@ table {
     background: -o-linear-gradient(#266FA6,#4481AE, #266FA6); /* For Opera 11.1 to 12.0 */
     background: -moz-linear-gradient(#266FA6,#4481AE, #266FA6); /* For Firefox 3.6 to 15 */
     background: linear-gradient(#266FA6,#4481AE, #266FA6); /* Standard syntax */
-    height: 70px;
-    width: 1000px;
-}
-
-#banner_bottom h2 {
+    height: 50px;
+    width: 970px;
     color: white;
     font-size: 33px;
     font-family: Arial;
     display: inline-block;
-    margin-top: 20px;
-    margin-left: 30px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+#banner_bottom h2 {
+    
 }
 /*------------*/
 /*--*/
